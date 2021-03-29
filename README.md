@@ -4,7 +4,7 @@
   作业1描述
   
   链接
-  [作业1链接](https://gsk5198.github.io/...)
+  [作业1链接](https://gsk5198.github.io/hw1.png)
   
 ##作业2地理连线图
 ##作业3中国地图
