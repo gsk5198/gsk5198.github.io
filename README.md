@@ -23,4 +23,4 @@ num=int(((1-b)*前一年该省患者数+a*前一年该省健康人数*外省感�
   
 [作业4链接1](https://gsk5198.github.io/hw4_lowrate.html)
   
-[作业4链接2](https://gsk5198.github.io/hw4_lowrate.html)
+[作业4链接2](https://gsk5198.github.io/hw4_higerate.html)
