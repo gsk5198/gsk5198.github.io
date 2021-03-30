@@ -1,13 +1,28 @@
 # 郭时琨 1900010695
 ##1.作业1
   
-  作业1描述
+作业1描述
   
-  链接
-  [作业1链接](https://gsk5198.github.io/hw1.png)
+链接
+  
+[作业1链接](https://gsk5198.github.io/hw1.png)
   
 ##作业2地理连线图
+  
+作业2描述
+  
+链接
+  
+[作业2链接](https://gsk5198.github.io/hw2.html)
+  
 ##作业3中国地图
+  
+作业3描述
+  
+链接
+  
+[作业3链接](https://gsk5198.github.io/hw3.html)
+  
 ##4组合图表
 作业4描述
   
