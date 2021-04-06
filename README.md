@@ -10,7 +10,7 @@
   
 [作业1链接pie](https://gsk5198.github.io/hw1.png)
   
-[作业1链接bar](https://gsk5198.github.io/hw1 bar.png)
+[作业1链接bar](https://gsk5198.github.io/hw1bar.png)
   
   
 ##2.连线图
